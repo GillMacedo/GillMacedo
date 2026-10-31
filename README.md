@@ -4,24 +4,24 @@ I'm a lead software engineer. I build free, open-source MCP servers, skills and 
 
 [LinkedIn](https://www.linkedin.com/in/giulliano/) · [X / Twitter](https://x.com/giumacedo)
 
-## MCP servers
+## For Claude and AI developers
 
-Each one works on local files or public model data, and installs as a Claude Code plugin or through `npx`.
+| Project | What it does | Type |
+|---|---|---|
+| [stalemodel](https://github.com/GillMacedo/stalemodel) | Catch outdated AI model names in code, and look up current models, prices and limits | MCP server |
+| [permwhy](https://github.com/GillMacedo/permwhy) | Debug Claude Code permission prompts and lint the allow and deny rules in `settings.json` | Claude Code plugin |
+
+## Business tools
+
+MCP servers that work on your local CSV files. Each installs as a Claude Code plugin or through `npx`.
 
 | Server | What it does | For |
 |---|---|---|
-| [stalemodel](https://github.com/GillMacedo/stalemodel) | Catch outdated AI model names in code, and look up current models, prices and limits | AI developers |
 | [tiedout](https://github.com/GillMacedo/tiedout) | Match bank statements to invoices from CSV files | Bookkeeping |
 | [samecontact](https://github.com/GillMacedo/samecontact) | Find duplicate customers and contacts in CSV exports | CRM and sales |
 | [chargescout](https://github.com/GillMacedo/chargescout) | Find subscriptions, price increases and double charges in a bank statement CSV | Business spending |
 | [runwaystock](https://github.com/GillMacedo/runwaystock) | Find what to reorder, stockout dates and dead stock from sales and stock CSVs | Inventory |
 | [lapsewatch](https://github.com/GillMacedo/lapsewatch) | Find customers who stopped buying, and the revenue at risk, from an orders CSV | Customer retention |
-
-## Claude Code plugins
-
-| Plugin | What it does |
-|---|---|
-| [permwhy](https://github.com/GillMacedo/permwhy) | Debug Claude Code permission prompts and lint the allow and deny rules in `settings.json` |
 
 ## Install
 
