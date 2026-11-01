@@ -3,6 +3,9 @@
 All notable changes are documented here, in [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) format. This profile has no version numbers, so entries go by date.
 
 ## 2026-11-01
+### Changed
+- Projects grouped by type, then category
+
 ### Added
 - `beforeitbroke`, `kubestepup` and `shiftbaton` in the project table
 
