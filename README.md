@@ -44,6 +44,7 @@ These work on your local CSV files.
 | [gosturdy](https://github.com/GillMacedo/gosturdy) | Find production risks in a Go service: missing timeouts, no graceful shutdown, unlimited database pools | Skill |
 | [missingenv](https://github.com/GillMacedo/missingenv) | Find environment variables your code reads but your deploy files don't set | Skill |
 | [stillused](https://github.com/GillMacedo/stillused) | Find columns and tables your migrations drop or rename while code still uses them | Skill |
+| [racesift](https://github.com/GillMacedo/racesift) | Groups and ranks Go race detector reports from go test -race output, and shows races a branch added |
 
 ### Claude Code
 
