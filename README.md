@@ -33,6 +33,7 @@ These work on your local CSV files.
 | [beforeitbroke](https://github.com/GillMacedo/beforeitbroke) | Build an incident timeline of what changed before production broke, from git, GitHub and Kubernetes | Skill |
 | [kubestepup](https://github.com/GillMacedo/kubestepup) | Plan a Kubernetes upgrade one minor version at a time and find what would block it | Skill |
 | [whyredci](https://github.com/GillMacedo/whyredci) | Explain a failed GitHub Actions run, and whether it looks new, already failing or flaky | Skill |
+| [gosturdy](https://github.com/GillMacedo/gosturdy) | Find production risks in a Go service: missing timeouts, no graceful shutdown, unlimited database pools | Skill |
 
 ### Claude Code
 
