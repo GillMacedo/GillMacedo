@@ -34,6 +34,7 @@ These work on your local CSV files.
 | [kubestepup](https://github.com/GillMacedo/kubestepup) | Plan a Kubernetes upgrade one minor version at a time and find what would block it | Skill |
 | [whyredci](https://github.com/GillMacedo/whyredci) | Explain a failed GitHub Actions run, and whether it looks new, already failing or flaky | Skill |
 | [gosturdy](https://github.com/GillMacedo/gosturdy) | Find production risks in a Go service: missing timeouts, no graceful shutdown, unlimited database pools | Skill |
+| [missingenv](https://github.com/GillMacedo/missingenv) | Find environment variables your code reads but your deploy files don't set | Skill |
 
 ### Claude Code
 
