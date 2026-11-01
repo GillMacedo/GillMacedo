@@ -10,6 +10,7 @@ I'm a lead software engineer. I build free, open-source MCP servers, skills and 
 |---|---|---|
 | [stalemodel](https://github.com/GillMacedo/stalemodel) | Catch outdated AI model names in code, and look up current models, prices and limits | MCP server |
 | [permwhy](https://github.com/GillMacedo/permwhy) | Debug Claude Code permission prompts and lint the allow and deny rules in `settings.json` | Claude Code plugin |
+| [beforeitbroke](https://github.com/GillMacedo/beforeitbroke) | Build an incident timeline of what changed before production broke, from git, GitHub and Kubernetes | Claude Code skill |
 
 ## Business tools
 
