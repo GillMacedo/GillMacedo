@@ -4,7 +4,7 @@ All notable changes are documented here, in [Keep a Changelog](https://keepachan
 
 ## 2026-11-01
 ### Added
-- `beforeitbroke` in the project table
+- `beforeitbroke` and `kubestepup` in the project table
 
 ## 2026-10-31
 ### Added
