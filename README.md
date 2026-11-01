@@ -35,6 +35,7 @@ These work on your local CSV files.
 | [whyredci](https://github.com/GillMacedo/whyredci) | Explain a failed GitHub Actions run, and whether it looks new, already failing or flaky | Skill |
 | [gosturdy](https://github.com/GillMacedo/gosturdy) | Find production risks in a Go service: missing timeouts, no graceful shutdown, unlimited database pools | Skill |
 | [missingenv](https://github.com/GillMacedo/missingenv) | Find environment variables your code reads but your deploy files don't set | Skill |
+| [stillused](https://github.com/GillMacedo/stillused) | Find columns and tables your migrations drop or rename while code still uses them | Skill |
 
 ### Claude Code
 

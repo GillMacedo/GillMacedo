@@ -7,7 +7,7 @@ All notable changes are documented here, in [Keep a Changelog](https://keepachan
 - Projects grouped by type, then category
 
 ### Added
-- `beforeitbroke`, `kubestepup`, `shiftbaton`, `whyredci`, `gosturdy` and `missingenv` in the project table
+- `beforeitbroke`, `kubestepup`, `shiftbaton`, `whyredci`, `gosturdy`, `missingenv` and `stillused` in the project table
 
 ## 2026-10-31
 ### Added
