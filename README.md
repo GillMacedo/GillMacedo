@@ -23,6 +23,7 @@ These work on your local CSV files.
 | [chargescout](https://github.com/GillMacedo/chargescout) | Find subscriptions, price increases and double charges in a bank statement CSV | Business spending |
 | [runwaystock](https://github.com/GillMacedo/runwaystock) | Find what to reorder, stockout dates and dead stock from sales and stock CSVs | Inventory |
 | [lapsewatch](https://github.com/GillMacedo/lapsewatch) | Find customers who stopped buying, and the revenue at risk, from an orders CSV | Customer retention |
+| [latepayers](https://github.com/GillMacedo/latepayers) | See who owes you money, how late each invoice is, and who to chase first, from an invoice CSV | Accounts receivable |
 
 ## Skills and plugins
 
