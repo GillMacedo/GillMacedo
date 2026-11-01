@@ -12,6 +12,12 @@ I'm a lead software engineer. I build free, open-source MCP servers, skills and 
 |---|---|
 | [stalemodel](https://github.com/GillMacedo/stalemodel) | Catch outdated AI model names in code, and look up current models, prices and limits |
 
+### For backend and databases
+
+| Project | What it does |
+|---|---|
+| [slowplan](https://github.com/GillMacedo/slowplan) | Find why a PostgreSQL query is slow from its EXPLAIN output, without connecting to your database |
+
 ### For business data
 
 These work on your local CSV files.
