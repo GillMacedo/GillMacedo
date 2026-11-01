@@ -12,6 +12,7 @@ I'm a lead software engineer. I build free, open-source MCP servers, skills and 
 | [permwhy](https://github.com/GillMacedo/permwhy) | Debug Claude Code permission prompts and lint the allow and deny rules in `settings.json` | Claude Code plugin |
 | [beforeitbroke](https://github.com/GillMacedo/beforeitbroke) | Build an incident timeline of what changed before production broke, from git, GitHub and Kubernetes | Claude Code skill |
 | [kubestepup](https://github.com/GillMacedo/kubestepup) | Plan a Kubernetes upgrade one minor version at a time and find what would block it | Claude Code skill |
+| [shiftbaton](https://github.com/GillMacedo/shiftbaton) | Run Claude Code in long headless shifts with file handoff, a spend limit and a kill switch | GitHub template |
 
 ## Business tools
 
