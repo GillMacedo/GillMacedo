@@ -17,6 +17,7 @@ I'm a lead software engineer. I build free, open-source MCP servers, skills and 
 | Project | What it does |
 |---|---|
 | [slowplan](https://github.com/GillMacedo/slowplan) | Find why a PostgreSQL query is slow from its EXPLAIN output, without connecting to your database |
+| [stuckgo](https://github.com/GillMacedo/stuckgo) | Find what a stuck or leaking Go program is waiting on from a goroutine dump, without connecting to it |
 
 ### For business data
 
