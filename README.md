@@ -45,6 +45,7 @@ These work on your local CSV files.
 | [missingenv](https://github.com/GillMacedo/missingenv) | Find environment variables your code reads but your deploy files don't set | Skill |
 | [stillused](https://github.com/GillMacedo/stillused) | Find columns and tables your migrations drop or rename while code still uses them | Skill |
 | [racesift](https://github.com/GillMacedo/racesift) | Groups and ranks Go race detector reports from go test -race output, and shows races a branch added |
+| [godebugdiff](https://github.com/GillMacedo/godebugdiff) | Lists GODEBUG defaults that change when you raise the go line in go.mod, and which binaries import each affected package |
 
 ### Claude Code
 
