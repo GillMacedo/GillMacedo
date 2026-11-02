@@ -46,6 +46,7 @@ These work on your local CSV files.
 | [stillused](https://github.com/GillMacedo/stillused) | Find columns and tables your migrations drop or rename while code still uses them | Skill |
 | [racesift](https://github.com/GillMacedo/racesift) | Groups and ranks Go race detector reports from go test -race output, and shows races a branch added |
 | [godebugdiff](https://github.com/GillMacedo/godebugdiff) | Lists GODEBUG defaults that change when you raise the go line in go.mod, and which binaries import each affected package |
+| [initblame](https://github.com/GillMacedo/initblame) | Finds which packages and modules make a Go program slow to start, from GODEBUG=inittrace=1 output, with import chains and before/after compare. |
 
 ### Claude Code
 
