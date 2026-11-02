@@ -47,6 +47,7 @@ These work on your local CSV files.
 | [racesift](https://github.com/GillMacedo/racesift) | Groups and ranks Go race detector reports from go test -race output, and shows races a branch added | Skill |
 | [godebugdiff](https://github.com/GillMacedo/godebugdiff) | Lists GODEBUG defaults that change when you raise the go line in go.mod, and which binaries import each affected package | Skill |
 | [initblame](https://github.com/GillMacedo/initblame) | Finds which packages and modules make a Go program slow to start, from GODEBUG=inittrace=1 output, with import chains and before/after compare. | Skill |
+| [escapediff](https://github.com/GillMacedo/escapediff) | Lists the new heap escapes, lost inlining and parameter leaks a Go change adds, by building the base branch and your change | Skill |
 
 ### Claude Code
 
