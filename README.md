@@ -51,6 +51,7 @@ These work on your local CSV files.
 | [seriesdiff](https://github.com/GillMacedo/seriesdiff) | Compares Prometheus /metrics from two builds and lists removed metrics, label changes and cardinality growth, with the alerts that use them. | Skill |
 | [buildinfodiff](https://github.com/GillMacedo/buildinfodiff) | Compares two Go release binaries and flags dirty builds, downgrades, local replaces and changed build settings or DefaultGODEBUG | Skill |
 | [shuffleblame](https://github.com/GillMacedo/shuffleblame) | Finds the earlier Go test that makes another test fail under go test -shuffle or in CI, with a two-test reproduce command | Skill |
+| [fuzzsift](https://github.com/GillMacedo/fuzzsift) | Runs each Go fuzz corpus entry alone, groups the failures by panic and stack frame, and gives the smallest entry and a go test command for each | Skill |
 
 ### Claude Code
 
