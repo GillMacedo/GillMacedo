@@ -50,6 +50,7 @@ These work on your local CSV files.
 | [escapediff](https://github.com/GillMacedo/escapediff) | Lists the new heap escapes, lost inlining and parameter leaks a Go change adds, by building the base branch and your change | Skill |
 | [seriesdiff](https://github.com/GillMacedo/seriesdiff) | Compares Prometheus /metrics from two builds and lists removed metrics, label changes and cardinality growth, with the alerts that use them. | Skill |
 | [buildinfodiff](https://github.com/GillMacedo/buildinfodiff) | Compares two Go release binaries and flags dirty builds, downgrades, local replaces and changed build settings or DefaultGODEBUG | Skill |
+| [shuffleblame](https://github.com/GillMacedo/shuffleblame) | Finds the earlier Go test that makes another test fail under go test -shuffle or in CI, with a two-test reproduce command | Skill |
 
 ### Claude Code
 
