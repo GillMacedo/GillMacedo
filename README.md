@@ -52,6 +52,7 @@ These work on your local CSV files.
 | [buildinfodiff](https://github.com/GillMacedo/buildinfodiff) | Compares two Go release binaries and flags dirty builds, downgrades, local replaces and changed build settings or DefaultGODEBUG | Skill |
 | [shuffleblame](https://github.com/GillMacedo/shuffleblame) | Finds the earlier Go test that makes another test fail under go test -shuffle or in CI, with a two-test reproduce command | Skill |
 | [fuzzsift](https://github.com/GillMacedo/fuzzsift) | Runs each Go fuzz corpus entry alone, groups the failures by panic and stack frame, and gives the smallest entry and a go test command for each | Skill |
+| [pgostale](https://github.com/GillMacedo/pgostale) | Checks if a Go PGO profile (default.pgo) still matches the code and names the functions and call sites that refactors broke. | Skill |
 
 ### Claude Code
 
