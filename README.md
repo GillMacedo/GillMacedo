@@ -55,6 +55,7 @@ These work on your local CSV files.
 | [pgostale](https://github.com/GillMacedo/pgostale) | Checks if a Go PGO profile (default.pgo) still matches the code and names the functions and call sites that refactors broke. | Skill |
 | [whyrebuilt](https://github.com/GillMacedo/whyrebuilt) | Explains why Go rebuilds everything in CI with the build cache restored, by comparing the cache key inputs of two runs | Skill |
 | [unstamped](https://github.com/GillMacedo/unstamped) | Checks that Go -ldflags -X version stamps really land, in source or in a built binary, because the linker ignores wrong targets silently | Skill |
+| [wontexec](https://github.com/GillMacedo/wontexec) | Checks that a program will start in a container image: loader, architecture, shared libraries, glibc versions, image user, Go certs and zones | Skill |
 
 ### Claude Code
 
