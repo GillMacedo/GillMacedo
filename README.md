@@ -60,6 +60,7 @@ These work on your local CSV files.
 | [rbacgap](https://github.com/GillMacedo/rbacgap) | Finds API calls in a Go Kubernetes operator that its kubebuilder RBAC markers or Role YAML don't grant, and markers controller-gen ignores | Skill |
 | [embedgap](https://github.com/GillMacedo/embedgap) | Finds Go embed.FS reads that fail at run time: paths //go:embed never included, skipped _ and . files, wrong fs.Sub, empty ParseFS | Skill |
 | [wontpatch](https://github.com/GillMacedo/wontpatch) | Finds Kubernetes manifest changes that helm upgrade and kubectl apply reject as immutable, from rendered files, before you deploy. | Skill |
+| [jsonbreak](https://github.com/GillMacedo/jsonbreak) | Finds JSON breaking changes in Go structs between two revisions: renamed or removed json keys, type changes, new omitempty or nullable fields | Skill |
 
 ### Claude Code
 
