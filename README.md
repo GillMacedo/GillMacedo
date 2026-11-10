@@ -61,6 +61,7 @@ These work on your local CSV files.
 | [embedgap](https://github.com/GillMacedo/embedgap) | Finds Go embed.FS reads that fail at run time: paths //go:embed never included, skipped _ and . files, wrong fs.Sub, empty ParseFS | Skill |
 | [wontpatch](https://github.com/GillMacedo/wontpatch) | Finds Kubernetes manifest changes that helm upgrade and kubectl apply reject as immutable, from rendered files, before you deploy. | Skill |
 | [jsonbreak](https://github.com/GillMacedo/jsonbreak) | Finds JSON breaking changes in Go structs between two revisions: renamed or removed json keys, type changes, new omitempty or nullable fields | Skill |
+| [logbreak](https://github.com/GillMacedo/logbreak) | Finds Go slog, zap and logr changes that break log-based alerts: reworded messages, renamed keys, changed value kinds and lowered levels | Skill |
 
 ### Claude Code
 
