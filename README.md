@@ -63,6 +63,7 @@ These work on your local CSV files.
 | [jsonbreak](https://github.com/GillMacedo/jsonbreak) | Finds JSON breaking changes in Go structs between two revisions: renamed or removed json keys, type changes, new omitempty or nullable fields | Skill |
 | [logbreak](https://github.com/GillMacedo/logbreak) | Finds Go slog, zap and logr changes that break log-based alerts: reworded messages, renamed keys, changed value kinds and lowered levels | Skill |
 | [whybumped](https://github.com/GillMacedo/whybumped) | Explains why Go dependency versions and the go directive changed between two revisions, naming the module that required each new version | Skill |
+| [golimits](https://github.com/GillMacedo/golimits) | Checks GOMEMLIMIT, GOGC and GOMAXPROCS in Kubernetes manifests against container limits, before a Go pod crashes or gets OOMKilled | Skill |
 
 ### Claude Code
 
