@@ -66,6 +66,7 @@ These work on your local CSV files.
 | [golimits](https://github.com/GillMacedo/golimits) | Checks GOMEMLIMIT, GOGC and GOMAXPROCS in Kubernetes manifests against container limits, before a Go pod crashes or gets OOMKilled | Skill |
 | [flaggap](https://github.com/GillMacedo/flaggap) | Checks the flags Kubernetes manifests pass to a Go program with its own flag, pflag or cobra parser, before the pod crash-loops | Skill |
 | [cgostub](https://github.com/GillMacedo/cgostub) | Finds Go dependencies that become stubs, fall back or stop building with CGO_ENABLED=0, per target, confirmed with a real go build. | Skill |
+| [bucketgap](https://github.com/GillMacedo/bucketgap) | Finds Prometheus alerts and Grafana queries whose le or quantile values match no series, checked against real /metrics output | Skill |
 
 ### Claude Code
 
