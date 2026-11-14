@@ -68,6 +68,7 @@ These work on your local CSV files.
 | [cgostub](https://github.com/GillMacedo/cgostub) | Finds Go dependencies that become stubs, fall back or stop building with CGO_ENABLED=0, per target, confirmed with a real go build. | Skill |
 | [bucketgap](https://github.com/GillMacedo/bucketgap) | Finds Prometheus alerts and Grafana queries whose le or quantile values match no series, checked against real /metrics output | Skill |
 | [neverran](https://github.com/GillMacedo/neverran) | Lists Go tests no CI run ran: nested modules, build-tagged files, TestMain early exits, and tests skipped everywhere | Skill |
+| [straykeys](https://github.com/GillMacedo/straykeys) | Finds YAML and JSON config keys a Go program silently ignores, by checking them against its struct for yaml.v3, encoding/json, viper and koanf. | Skill |
 
 ### Claude Code
 
