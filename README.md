@@ -69,6 +69,7 @@ These work on your local CSV files.
 | [bucketgap](https://github.com/GillMacedo/bucketgap) | Finds Prometheus alerts and Grafana queries whose le or quantile values match no series, checked against real /metrics output | Skill |
 | [neverran](https://github.com/GillMacedo/neverran) | Lists Go tests no CI run ran: nested modules, build-tagged files, TestMain early exits, and tests skipped everywhere | Skill |
 | [straykeys](https://github.com/GillMacedo/straykeys) | Finds YAML and JSON config keys a Go program silently ignores, by checking them against its struct for yaml.v3, encoding/json, viper and koanf. | Skill |
+| [probegap](https://github.com/GillMacedo/probegap) | Checks Kubernetes liveness, readiness and startup probes against the Go server's real routes, ports and listen addresses | Skill |
 
 ### Claude Code
 
