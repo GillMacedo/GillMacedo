@@ -72,6 +72,7 @@ These work on your local CSV files.
 | [probegap](https://github.com/GillMacedo/probegap) | Checks Kubernetes liveness, readiness and startup probes against the Go server's real routes, ports and listen addresses | Skill |
 | [panelgap](https://github.com/GillMacedo/panelgap) | Finds Grafana panels that will show No data and alerts that can't fire, by checking their PromQL against a real metrics scrape | Skill |
 | [unexpanded](https://github.com/GillMacedo/unexpanded) | Finds Kubernetes $(VAR) and ${VAR} references in env, args, probes and hooks that kubelet leaves as written, from manifests or helm template output. | Skill |
+| [lostspans](https://github.com/GillMacedo/lostspans) | Checks OTEL_ variables in Kubernetes, Compose and .env files for settings that silently lose traces, metrics and logs | Skill |
 
 ### Claude Code
 
