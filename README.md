@@ -71,6 +71,7 @@ These work on your local CSV files.
 | [straykeys](https://github.com/GillMacedo/straykeys) | Finds YAML and JSON config keys a Go program silently ignores, by checking them against its struct for yaml.v3, encoding/json, viper and koanf. | Skill |
 | [probegap](https://github.com/GillMacedo/probegap) | Checks Kubernetes liveness, readiness and startup probes against the Go server's real routes, ports and listen addresses | Skill |
 | [panelgap](https://github.com/GillMacedo/panelgap) | Finds Grafana panels that will show No data and alerts that can't fire, by checking their PromQL against a real metrics scrape | Skill |
+| [unexpanded](https://github.com/GillMacedo/unexpanded) | Finds Kubernetes $(VAR) and ${VAR} references in env, args, probes and hooks that kubelet leaves as written, from manifests or helm template output. | Skill |
 
 ### Claude Code
 
