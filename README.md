@@ -76,6 +76,7 @@ These work on your local CSV files.
 | [unscraped](https://github.com/GillMacedo/unscraped) | Finds ServiceMonitors, PodMonitors and PrometheusRules that Prometheus Operator silently ignores, from manifests or helm template output | Skill |
 | [schemaclash](https://github.com/GillMacedo/schemaclash) | Finds OpenTelemetry Go resource merges that fail with conflicting Schema URL after an SDK or semconv upgrade, before the service starts. | Skill |
 | [grpcgap](https://github.com/GillMacedo/grpcgap) | Finds gRPC method name strings and service configs in Go code that match no linked method, or that grpc-go silently ignores. | Skill |
+| [draingap](https://github.com/GillMacedo/draingap) | Checks that a Go HTTP service drains requests before Kubernetes kills it: SIGTERM handling, Shutdown contexts, and preStop plus deadline vs the grace period. | Skill |
 
 ### Claude Code
 
