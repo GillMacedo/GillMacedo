@@ -77,6 +77,7 @@ These work on your local CSV files.
 | [schemaclash](https://github.com/GillMacedo/schemaclash) | Finds OpenTelemetry Go resource merges that fail with conflicting Schema URL after an SDK or semconv upgrade, before the service starts. | Skill |
 | [grpcgap](https://github.com/GillMacedo/grpcgap) | Finds gRPC method name strings and service configs in Go code that match no linked method, or that grpc-go silently ignores. | Skill |
 | [draingap](https://github.com/GillMacedo/draingap) | Checks that a Go HTTP service drains requests before Kubernetes kills it: SIGTERM handling, Shutdown contexts, and preStop plus deadline vs the grace period. | Skill |
+| [neverfired](https://github.com/GillMacedo/neverfired) | Finds Prometheus alerts no promtool test shows firing, and promtool tests that pass without checking anything | Skill |
 
 ### Claude Code
 
