@@ -79,6 +79,7 @@ These work on your local CSV files.
 | [draingap](https://github.com/GillMacedo/draingap) | Checks that a Go HTTP service drains requests before Kubernetes kills it: SIGTERM handling, Shutdown contexts, and preStop plus deadline vs the grace period. | Skill |
 | [neverfired](https://github.com/GillMacedo/neverfired) | Finds Prometheus alerts no promtool test shows firing, and promtool tests that pass without checking anything | Skill |
 | [idlegap](https://github.com/GillMacedo/idlegap) | Finds Go servers whose idle timeout is shorter than the ALB, ingress-nginx or GKE load balancer in front, a cause of random 502s | Skill |
+| [neverapplied](https://github.com/GillMacedo/neverapplied) | Finds SQL migrations that golang-migrate, goose or dbmate will skip, refuse or run out of order, by comparing a branch's migrations folder with main. | Skill |
 
 ### Claude Code
 
