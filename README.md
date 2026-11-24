@@ -82,6 +82,7 @@ These work on your local CSV files.
 | [neverapplied](https://github.com/GillMacedo/neverapplied) | Finds SQL migrations that golang-migrate, goose or dbmate will skip, refuse or run out of order, by comparing a branch's migrations folder with main. | Skill |
 | [overselect](https://github.com/GillMacedo/overselect) | Finds Kubernetes Services, PodDisruptionBudgets and workload selectors that match the pods of more than one workload, from manifests or Helm output | Skill |
 | [toomanypings](https://github.com/GillMacedo/toomanypings) | Finds grpc-go client keepalive settings that the server answers with GOAWAY too_many_pings, by reading Go source. | Skill |
+| [toomanyclients](https://github.com/GillMacedo/toomanyclients) | Checks that Go services' Postgres pools fit max_connections across Kubernetes replicas, HPA maximums and rollouts, from source and manifests | Skill |
 
 ### Claude Code
 
