@@ -81,6 +81,7 @@ These work on your local CSV files.
 | [idlegap](https://github.com/GillMacedo/idlegap) | Finds Go servers whose idle timeout is shorter than the ALB, ingress-nginx or GKE load balancer in front, a cause of random 502s | Skill |
 | [neverapplied](https://github.com/GillMacedo/neverapplied) | Finds SQL migrations that golang-migrate, goose or dbmate will skip, refuse or run out of order, by comparing a branch's migrations folder with main. | Skill |
 | [overselect](https://github.com/GillMacedo/overselect) | Finds Kubernetes Services, PodDisruptionBudgets and workload selectors that match the pods of more than one workload, from manifests or Helm output | Skill |
+| [toomanypings](https://github.com/GillMacedo/toomanypings) | Finds grpc-go client keepalive settings that the server answers with GOAWAY too_many_pings, by reading Go source. | Skill |
 
 ### Claude Code
 
